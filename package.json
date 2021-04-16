@@ -1,0 +1,25 @@
+{
+  "name": "simple-express-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CihadColak/simple-express-server.git"
+  },
+  "author": "Cihad Colak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CihadColak/simple-express-server/issues"
+  },
+  "homepage": "https://github.com/CihadColak/simple-express-server#readme"
+}
